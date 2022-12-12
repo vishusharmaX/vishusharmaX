@@ -42,7 +42,7 @@ I am a Web Developer who is also interested in Android Development, and I wanted
 
 </td><td valign="top" width="50%">
 
-<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" align="left" height="250" width="400" />  
+<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" align="left" height="250" width="500" />  
 
 
 </td></tr></table>  
