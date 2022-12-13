@@ -46,7 +46,7 @@ I am a Web Developer who is also interested in Android Development, and I wanted
 </td></tr></table>  
 
 <br/>  
-<a href="https://6398b6e5d4946a77e03742fb--gilded-baklava-4c6d52.netlify.app/" target="_blank"><img style="margin: 10px"  alt="React" height="50" /></a>  
+<a href="https://6398b6e5d4946a77e03742fb--gilded-baklava-4c6d52.netlify.app/" target="_blank"></a>  
 
 ## Languages and Tools  
 <div align="center">  
