@@ -15,4 +15,4 @@
 
 ## Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]( https://twitter.com/vishush62450403) 	[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/vishwajeet-sharma-649a21205/)
-[![Instagram](https://img.shields.io/badge/instagram-%20-instagram-lightgrey.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishu.livincool)
+[![Instagram](https://img.shields.io/badge/instagram-%lightgrey.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishu.livincool)
