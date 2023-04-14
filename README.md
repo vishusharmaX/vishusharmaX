@@ -2,9 +2,9 @@
 
 ## About Me
 - 👋 Hi, I’m  Vishwajeet Sharma
-- 💻 I’m a Web Developer
+- 💻 I’m a Web & App Developer 
 - 🎓 I am pursuing Btech in Computer Science Engineering
-- 🔭 I’m currently working on React Native Project   
+- 🔭 I’m currently working on React.js & React Native Project   
 - 🌱 I’m currently learning Data Structure and Algorithm 
 - ❓ Ask me about anything related to MERN stack and related technologies  
 - ⚡ Fun fact: Very Motivated, I'm able to work freely and do my best. Code enthusiast and Ambivert 
