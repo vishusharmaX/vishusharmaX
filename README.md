@@ -1,4 +1,4 @@
-![Vishwajeet Sharma (2)](https://user-images.githubusercontent.com/91490950/236473983-6f46672a-3521-43fd-b498-0950b0224f07.png)
+![Vishwajeet Sharma](https://user-images.githubusercontent.com/91490950/236474413-9a731e86-d97d-4d5a-a4a0-6f0a97d57579.png)
 
 # HELLO THERE! 👋
 
