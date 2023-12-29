@@ -18,3 +18,19 @@
 ## Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]( https://twitter.com/vishux007) 	[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/vishwajeet-sharma-649a21205/)
 [![Instagram](https://img.shields.io/badge/instagram-2E3340.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishu.livincool)
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/vishusharmaX/vishusharmaX/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/vishusharmaX/vishusharmaX/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/vishusharmaX/vishusharmaX/output/github-contribution-grid-snake.svg"
+  />
+</picture>
