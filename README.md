@@ -18,5 +18,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]( https://twitter.com/vishux007) 	[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/vishwajeet-sharma-649a21205/)
 [![Instagram](https://img.shields.io/badge/instagram-2E3340.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishu.livincool)
 
-![snake animation](https://github.com/vishusharmaX/vishusharmaX/blob/output/github-contribution-grid-snake2.svg)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
