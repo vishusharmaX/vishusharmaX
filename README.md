@@ -3,15 +3,20 @@
 # HELLO THERE! 👋
 
 ## About Me
-- 👋 Hi, I’m  Vishwajeet Sharma
-- 💻 I’m a Web & App Developer 
-- 🎓 I am pursuing Btech in Computer Science Engineering
-- 🔭 I’m currently working on React.js & React Native Project   
-- 🌱 I’m currently learning Data Structure and Algorithm 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-- ⚡ Fun fact: Very Motivated, I'm able to work freely and do my best. Code enthusiast and Ambivert 
-- 📫 How to reach me sharmavishwajeet04@gmail.com
+<br/>
 
+- 👨‍💻 &nbsp;Software Engineer (Full Stack) at **Tata Consultancy Services (TCS)**
+- 🎓 &nbsp;B.Tech in Computer Science & Engineering from **VIT Bhopal** · CGPA: **8.86**
+- 🚀 &nbsp;Built [CollabCode](https://github.com/vishusharmaX) — a real-time collaborative code editor with WebSockets & CRDT
+- 🤖 &nbsp;Built [Spott](https://github.com/vishusharmaX) — an AI-powered event discovery platform with Generative AI integration
+- 📄 &nbsp;Built [NextGenCareer](https://github.com/vishusharmaX) — a MERN stack career launchpad with ATS resume analyzer
+- ⚡ &nbsp;Optimized REST API response time by **35%** using MongoDB indexing & caching strategies
+- 🌱 &nbsp;Currently exploring **System Design**, **Microservices**, and **TypeScript** patterns
+- ❓ &nbsp;Ask me about **MERN stack, REST APIs, WebSockets, or real-time apps**
+- ⚡ &nbsp;Fun fact: Code enthusiast, ambivert, and always chasing the next optimization
+- 📫 &nbsp;Reach me at **sharmavishwajeet04@gmail.com**
+
+<br/>
 ## Tech Stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/reactnative-35BDB2?style=for-the-badge&logo=reactnative&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <img class="badge" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 ## Contact Me
