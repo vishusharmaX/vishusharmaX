@@ -68,7 +68,7 @@
 
 ## 🐍 Contribution Graph
 
-![snake animation](https://github.com/vishusharmaX/vishusharmaX/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/vishusharmaX/vishusharmaX/output/snake.svg)
 
 ---
 
